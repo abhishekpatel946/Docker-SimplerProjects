@@ -1,0 +1,15 @@
+{
+  "name": "startapp",
+  "version": "1.0.0",
+  "description": "a simple node application with mongodb database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "abhishek patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.20"
+  }
+}
